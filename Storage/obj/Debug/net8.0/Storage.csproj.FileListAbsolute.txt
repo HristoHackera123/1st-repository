@@ -1,0 +1,14 @@
+C:\Users\encho\source\repos\Array3\Storage\bin\Debug\net8.0\Storage.exe
+C:\Users\encho\source\repos\Array3\Storage\bin\Debug\net8.0\Storage.deps.json
+C:\Users\encho\source\repos\Array3\Storage\bin\Debug\net8.0\Storage.runtimeconfig.json
+C:\Users\encho\source\repos\Array3\Storage\bin\Debug\net8.0\Storage.dll
+C:\Users\encho\source\repos\Array3\Storage\bin\Debug\net8.0\Storage.pdb
+C:\Users\encho\source\repos\Array3\Storage\obj\Debug\net8.0\Storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encho\source\repos\Array3\Storage\obj\Debug\net8.0\Storage.AssemblyInfoInputs.cache
+C:\Users\encho\source\repos\Array3\Storage\obj\Debug\net8.0\Storage.AssemblyInfo.cs
+C:\Users\encho\source\repos\Array3\Storage\obj\Debug\net8.0\Storage.csproj.CoreCompileInputs.cache
+C:\Users\encho\source\repos\Array3\Storage\obj\Debug\net8.0\Storage.dll
+C:\Users\encho\source\repos\Array3\Storage\obj\Debug\net8.0\refint\Storage.dll
+C:\Users\encho\source\repos\Array3\Storage\obj\Debug\net8.0\Storage.pdb
+C:\Users\encho\source\repos\Array3\Storage\obj\Debug\net8.0\Storage.genruntimeconfig.cache
+C:\Users\encho\source\repos\Array3\Storage\obj\Debug\net8.0\ref\Storage.dll
